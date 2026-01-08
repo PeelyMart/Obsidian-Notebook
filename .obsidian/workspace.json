@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Learning Plan"
             }
+          },
+          {
+            "id": "533d8635fca53bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT-PROG/Course brief.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course brief"
+            }
+          },
+          {
+            "id": "6e5219c6932fa55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REST Api (PHP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REST Api (PHP)"
+            }
+          },
+          {
+            "id": "2548ac51499a5fb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Administration/Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,8 +83,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,13 +221,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f64c01bef1d2f192",
+  "active": "2548ac51499a5fb0",
   "lastOpenFiles": [
-    "Learning Plan.md~",
-    "Learning Plan.md"
+    "?",
+    "IT-PROG/Course brief.md",
+    "System Administration/Week 1.md",
+    "Learning Plan.md",
+    "GERPHIS/Introduction.md",
+    "REST Api (PHP).md",
+    "GERPHIS",
+    "System Administration",
+    "IT-PROG",
+    "Learning Plan.md~"
   ]
 }

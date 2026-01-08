@@ -1,0 +1,101 @@
+---
+id: SYADW1D2
+aliases: []
+tags:
+  - SYSAD
+  - Week1
+Date: "2026-01-08"
+Week: 1
+---
+# System Administration Concepts
+
+- The job of a system admin is to maintain one or more systems in a convenient state for users
+- Plan, Install, Monitor, Troubleshoot, Backup, Performance Tuning, Customer Relations, etc.
+
+# The service Desk
+- Application where users, help desk personnel, and sysads can create request or or report issues 2
+    - Employee creation/deletion
+    - New projects
+    - Upgrades
+
+## Service Desk: Common Issues
+- Login/access not working (website,FTP, etc.)
+- Backups
+- Service outage
+- printing Issues
+
+## Service Desk: Philosophies
+
+### Philosphy 1: Automate as much as possible
+- You will always be outnumbered by the amount of tasks needed to be done: Automate
+    - Regular Backups
+    - Systems data collection
+    - User account maintenance 
+
+### Philosophy 2: Delegate tasks if simple enough
+- Use escalation and assign task to approrpiate co-workers 
+- Pass Information, Define responsibilities
+- Handle user-interruption
+
+### Philosphy 3:
+
+### Philosphy 4: Communicate as much as possible
+- Avoid confusion among users
+- Use efficient Communication channels
+- Not only fellow IT but the rest of the organization
+
+
+### Philosphy 6: Security Cannot be an afterthought
+- Threats come in different forms
+- A systems admin must be aware of security implications 
+- Not deeply but knowledgeable enough
+
+### Philosphy 7: Plan ahead but be open to the unexpected
+- System admins need to be aware of what's going on in the organization to be able to prepare for future work. 
+- Anticipate problems before they occur and make neessary preparations ahead of time, so that you can respond quickly if issues come up 
+    - Spare parts 
+
+
+# Elements of an IT System
+- An administrator may have to manage one or more elements of the systems
+    - users
+    - Hardware
+    - sofrware
+    - network
+    - data
+    - processors
+
+# Evard's life cryle of a machine and its OS
+- New -> refers a completely new machine 
+- Clean -> refers to a machine with an OS w/ no localizations 
+- Unknown ->  misconfigured or out of date
+- Off -> refers to a machien that has been retired and powered off
+
+# Workstations
+- Computer hardwre deidcated to a single customer's work 
+- Usually deployed in large quantities w/ long lifecycles 
+- OS instllation 
+    - Full/partial/cloning
+- Network Config
+- System Update 
+- One Some Many 
+    - Patch one machine first
+    - Try to patch a few other
+    - Once confident update the larger group
+    - Safeguards from faulty patches from disrupting the entire system 
+
+# Servers 
+- Alternative to expensive servers -> many inexpensive 
+- Use accessible components
+- Blade Servers / virtual servers 
+
+# When implementing a Service
+- Focus on customer needs and requirements
+- Talk to the customers to gather customer requirements
+- Finding out how customers intend to use the new serivce
+
+- (SLA) Service Level Agreements
+    - enumerates the services that will be provided and the level of support the user recieves
+    - Typically ategorizes problems by severity and commits to response times for each category
+
+- Must be balanced to operational requirements/constraints
