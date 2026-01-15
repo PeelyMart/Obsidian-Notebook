@@ -121,8 +121,6 @@ Free Tailwind / Component resources:
 
 You don’t need React or Node.js — Tailwind works with plain HTML + JS perfectly.
 
-⸻
-
 If you want, I can also make a ready-to-go skeleton folder for your enrollment app that:
 	•	Uses Tailwind CDN for styling
 	•	Has a form + table HTML
