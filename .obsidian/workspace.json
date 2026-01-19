@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Administration/Utilities, Redirection and Pipes.md",
+                "file": "System Administration/AdvanceFiles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Utilities, Redirection and Pipes"
+              "title": "AdvanceFiles"
             }
           }
         ],
@@ -256,9 +256,10 @@
   },
   "active": "89703445b6973ef9",
   "lastOpenFiles": [
-    "System Administration/Linux Nav.md",
-    "System Administration/Utilities, Redirection and Pipes.md",
     "Learning Plan.md",
+    "System Administration/AdvanceFiles.md",
+    "System Administration/Utilities, Redirection and Pipes.md",
+    "System Administration/Linux Nav.md",
     "ITNET03/Spanning Tree.md",
     "ITNET03",
     "IT-PROG/Course brief.md",

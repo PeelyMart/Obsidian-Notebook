@@ -31,7 +31,7 @@ _2 Types_: **Hard link** (default) or **Soft Link** (-s)
 - The meta data is edited to add a new file name for the same file 
 - Not able to linke across file systems
 - File is accessible as long as at least 1 hard link exists
-#### Soft ile [-s]
+#### Soft Link [-s]
 - New file -> link the file to the target 
 - Linkable across file systems
 - easy to identify when listing uisng ls cmd 
